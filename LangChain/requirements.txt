@@ -8,3 +8,4 @@ langchain-google-genai
 fastapi
 uvicorn
 sse_starlette
+pypdf

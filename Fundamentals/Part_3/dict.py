@@ -14,3 +14,4 @@ print(dict_values)
 print(info.items())
 
 print(info.get("name"))
+
